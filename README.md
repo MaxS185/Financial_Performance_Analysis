@@ -8,6 +8,7 @@ At a leading consulting firm, the finance team is facing a complex challenge: th
 + Determine the effectiveness of current financial strategies in achieving long-term profitability and growth.
 + Analyze the potential for market expansion and service optimization based on clear financial indicators.
 + Evaluate the conversion of financial data into strategic business actions and decision-making.
+
 ### Task
 As the data analyst for the consulting firm, my task was to dissect and translate the financial models coming from different country teams into a coherent, interactive Excel dashboard. The challenge was to uncover hidden patterns, provide a granular view of financial performance, and empower the finance team with actionable insights to drive revenue growth and cost efficiency.
 Action
